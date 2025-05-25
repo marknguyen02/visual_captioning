@@ -63,7 +63,7 @@ visual-captioning/
 ### 2. Clone và cấu hình dự án
 
 ```bash
-git clone git@github.com:anh7777/Visual-Captioning.git
+git clone git@github.com:anh7777/visual_captioning.git
 cd visual-captioning
 
 cd application/backend
