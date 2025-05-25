@@ -134,4 +134,4 @@ docker run -d -p 3000:3000 --name frontend marknguyen02/visual-captioning-fronte
 
 ## Video Demo
 
-Bạn có thể xem video demo chi tiết về dự án tại đây: [**Video**](https://drive.google.com/drive/folders/1y9XvZO5oJmcSmnkQsp3e016T-6gwm68o?usp=sharing)
+Bạn có thể xem video demo chi tiết về dự án tại đây: [**Video**](https://drive.google.com/file/d/1qK0OM0rcMc3oawKndLE9hRzosmGpH01s/view?usp=sharing)
